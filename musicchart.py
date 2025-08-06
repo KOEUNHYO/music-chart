@@ -12,7 +12,7 @@ def get_top_tracks(limit=10):
     url = 'http://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'chart.gettoptracks',
-        'api_key': MUSICAPIKEY,
+        'api_key': API_KEY,
         'format': 'json',
         'limit': limit
     }
