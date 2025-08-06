@@ -41,7 +41,7 @@ def save_to_readme(tracks):
 
 # 4. 실행
 if __name__ == "__main__":
-    if not API_KEY:
+    if not MUSICAPIKEY:
         print("❌ .env 파일에서 API_KEY를 찾을 수 없습니다.")
     else:
         top_tracks = get_top_tracks(limit=10)

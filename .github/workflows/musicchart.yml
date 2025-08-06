@@ -27,7 +27,7 @@ jobs:
           echo "MUSICAPIKEY=${{ secrets.MUSICAPIKEY }}" > .env
 
       - name: Run script to update README.md
-        run: python generate_chart.py
+        run: python musicchart.py
 
       - name: Commit and push changes
         run: |
