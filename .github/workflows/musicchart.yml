@@ -1,0 +1,38 @@
+name: Update Music Chart Daily
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # ⏰ 매일 한국시간 6시 = UTC 21시
+  workflow_dispatch:      # 수동 실행도 가능
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install python-dotenv requests
+
+      - name: Create .env file from GitHub Secrets
+        run: |
+          echo "MUSICAPIKEY=${{ secrets.MUSICAPIKEY }}" > .env
+
+      - name: Run script to update README.md
+        run: python generate_chart.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🕒 자동 업데이트: 음악 차트 최신화" || echo "No changes"
+          git push
