@@ -5,7 +5,7 @@ from datetime import datetime
 
 # 1. .env 파일에서 API_KEY 로드
 load_dotenv()
-MUSICAPIKEY = os.getenv('MUSICAPIKEY')
+API_KEY = os.getenv('MUSICAPIKEY')
 
 # 2. 차트 가져오기
 def get_top_tracks(limit=10):
