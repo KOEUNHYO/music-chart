@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-08-15 21:12:24
+⏰ Updated at: 2025-08-16 21:13:05
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
 9. [JUMP - BLACKPINK](https://www.last.fm/music/BLACKPINK/_/JUMP)
-10. [Ring Ring Ring - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring)
+10. [Let Down - Radiohead](https://www.last.fm/music/Radiohead/_/Let+Down)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
