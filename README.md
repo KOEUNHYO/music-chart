@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-08-22 21:12:49
+⏰ Updated at: 2025-08-23 21:12:15
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
 9. [Let Down - Radiohead](https://www.last.fm/music/Radiohead/_/Let+Down)
-10. [JUMP - BLACKPINK](https://www.last.fm/music/BLACKPINK/_/JUMP)
+10. [undressed - sombr](https://www.last.fm/music/sombr/_/undressed)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
