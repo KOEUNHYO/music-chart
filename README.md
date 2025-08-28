@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-08-27 21:13:15
+⏰ Updated at: 2025-08-28 21:13:06
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [Golden - HUNTR/X](https://www.last.fm/music/HUNTR%2FX/_/Golden)
 4. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
 5. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
-6. [Good Luck, Babe! - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe%21)
-7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
-8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
-9. [Let Down - Radiohead](https://www.last.fm/music/Radiohead/_/Let+Down)
-10. [JEALOUS TYPE - Doja Cat](https://www.last.fm/music/Doja+Cat/_/JEALOUS+TYPE)
+6. [JEALOUS TYPE - Doja Cat](https://www.last.fm/music/Doja+Cat/_/JEALOUS+TYPE)
+7. [Good Luck, Babe! - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe%21)
+8. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
+9. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
+10. [Let Down - Radiohead](https://www.last.fm/music/Radiohead/_/Let+Down)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
