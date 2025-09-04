@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-03 21:12:10
+⏰ Updated at: 2025-09-04 21:12:45
 
 ## 📈 Top Tracks
 
@@ -11,9 +11,9 @@
 5. [Nobody’s Son - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Nobody%E2%80%99s+Son)
 6. [We Almost Broke Up Again Last Night - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/We+Almost+Broke+Up+Again+Last+Night)
 7. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
-8. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
-9. [Never Getting Laid - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Never+Getting+Laid)
-10. [Go Go Juice - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Go+Go+Juice)
+8. [Never Getting Laid - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Never+Getting+Laid)
+9. [Go Go Juice - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Go+Go+Juice)
+10. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
