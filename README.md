@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-05 21:12:19
+⏰ Updated at: 2025-09-06 21:11:32
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
 7. [We Almost Broke Up Again Last Night - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/We+Almost+Broke+Up+Again+Last+Night)
 8. [Never Getting Laid - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Never+Getting+Laid)
-9. [Go Go Juice - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Go+Go+Juice)
-10. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
+9. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
+10. [Go Go Juice - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Go+Go+Juice)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
