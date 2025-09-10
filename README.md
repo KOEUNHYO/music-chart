@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-09 21:12:17
+⏰ Updated at: 2025-09-10 21:12:37
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
 7. [My Man on Willpower - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/My+Man+on+Willpower)
 8. [Sugar Talking - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Sugar+Talking)
-9. [Go Go Juice - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Go+Go+Juice)
-10. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+9. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+10. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
