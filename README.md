@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-11 21:12:04
+⏰ Updated at: 2025-09-12 21:11:48
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 7. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
 8. [My Man on Willpower - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/My+Man+on+Willpower)
-9. [Sugar Talking - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Sugar+Talking)
-10. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
+9. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
+10. [Sugar Talking - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Sugar+Talking)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
