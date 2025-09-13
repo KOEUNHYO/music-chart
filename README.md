@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-12 21:11:48
+⏰ Updated at: 2025-09-13 21:11:05
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
 4. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
 5. [Nobody’s Son - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Nobody%E2%80%99s+Son)
-6. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
-7. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
-8. [My Man on Willpower - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/My+Man+on+Willpower)
-9. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
-10. [Sugar Talking - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Sugar+Talking)
+6. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+7. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
+8. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
+9. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
+10. [My Man on Willpower - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/My+Man+on+Willpower)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
