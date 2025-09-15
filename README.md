@@ -1,12 +1,12 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-14 21:11:45
+⏰ Updated at: 2025-09-15 21:12:26
 
 ## 📈 Top Tracks
 
 1. [Tears - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Tears)
-2. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
-3. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
+2. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
+3. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 4. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
 5. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
 6. [Nobody’s Son - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Nobody%E2%80%99s+Son)
