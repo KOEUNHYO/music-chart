@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-16 21:12:41
+⏰ Updated at: 2025-09-17 21:12:13
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 8. [SUGAR ON MY TONGUE - Tyler, The Creator](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)
 9. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
-10. [My Man on Willpower - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/My+Man+on+Willpower)
+10. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
