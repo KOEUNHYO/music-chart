@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-09-30 21:12:33
+⏰ Updated at: 2025-10-01 21:12:40
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 7. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
-9. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
-10. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
+9. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
+10. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
