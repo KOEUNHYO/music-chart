@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-10-01 21:12:40
+⏰ Updated at: 2025-10-02 21:12:10
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
 9. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
-10. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
+10. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
