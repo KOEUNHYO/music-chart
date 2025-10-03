@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-10-02 21:12:10
+⏰ Updated at: 2025-10-03 21:11:40
 
 ## 📈 Top Tracks
 
@@ -10,8 +10,8 @@
 4. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
 5. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
 6. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
-7. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
-8. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
+7. [No One Noticed - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
+8. [The Subway - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/The+Subway)
 9. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
 10. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 
