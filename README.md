@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-10-07 21:12:10
+⏰ Updated at: 2025-10-08 21:12:53
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Wood - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Wood)
 7. [Eldest Daughter - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Eldest+Daughter)
 8. [The Life of a Showgirl (feat. Sabrina Carpenter) - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/The+Life+of+a+Showgirl+(feat.+Sabrina+Carpenter))
-9. [Ruin the Friendship - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Ruin+the+Friendship)
-10. [CANCELLED! - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/CANCELLED%21)
+9. [CANCELLED! - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/CANCELLED%21)
+10. [Ruin the Friendship - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Ruin+the+Friendship)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
