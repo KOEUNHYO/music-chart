@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-11-01 21:11:28
+⏰ Updated at: 2025-11-02 21:11:53
 
 ## 📈 Top Tracks
 
@@ -10,10 +10,10 @@
 4. [Dracula - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula)
 5. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
 6. [Opalite - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Opalite)
-7. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
-8. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
+7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
+8. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
 9. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
-10. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
+10. [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
