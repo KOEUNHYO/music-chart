@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-11-02 21:11:53
+⏰ Updated at: 2025-11-03 21:13:59
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Opalite - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Opalite)
 7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 8. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
-9. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
-10. [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep)
+9. [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep)
+10. [When Did You Get Hot? - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/When+Did+You+Get+Hot%3F)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
