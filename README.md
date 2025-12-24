@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-12-23 21:14:50
+⏰ Updated at: 2025-12-24 21:13:53
 
 ## 📈 Top Tracks
 
@@ -10,10 +10,10 @@
 4. [All I Want for Christmas Is You - Mariah Carey](https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You)
 5. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 6. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
-7. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
-8. [Creep - Radiohead](https://www.last.fm/music/Radiohead/_/Creep)
-9. [The Less I Know the Better - Tame Impala](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)
-10. [Sienna - The Marías](https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna)
+7. [Santa Tell Me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Santa+Tell+Me)
+8. [Jingle Bell Rock - Bobby Helms](https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock)
+9. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+10. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
