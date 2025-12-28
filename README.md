@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2025-12-27 21:13:21
+⏰ Updated at: 2025-12-28 21:13:48
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [The Fate of Ophelia - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia)
 8. [It's the Most Wonderful Time of the Year - Andy Williams](https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year)
 9. [Underneath the Tree - Kelly Clarkson](https://www.last.fm/music/Kelly+Clarkson/_/Underneath+the+Tree)
-10. [It's Beginning to Look a Lot Like Christmas - Michael Bublé](https://www.last.fm/music/Michael+Bubl%C3%A9/_/It%27s+Beginning+to+Look+a+Lot+Like+Christmas)
+10. [The Christmas Song (Merry Christmas To You) - Nat King Cole](https://www.last.fm/music/Nat+King+Cole/_/The+Christmas+Song+(Merry+Christmas+To+You))
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
