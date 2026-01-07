@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-01-06 21:16:11
+⏰ Updated at: 2026-01-07 21:15:32
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 4. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 5. [Every Breath You Take - The Police](https://www.last.fm/music/The+Police/_/Every+Breath+You+Take)
-6. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
-7. [I Thought I Saw Your Face Today - She & Him](https://www.last.fm/music/She+&+Him/_/I+Thought+I+Saw+Your+Face+Today)
+6. [I Thought I Saw Your Face Today - She & Him](https://www.last.fm/music/She+&+Him/_/I+Thought+I+Saw+Your+Face+Today)
+7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 8. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
 9. [Good Luck, Babe! - Chappell Roan](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe%21)
-10. [Gabriela - KATSEYE](https://www.last.fm/music/KATSEYE/_/Gabriela)
+10. [The Less I Know the Better - Tame Impala](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
