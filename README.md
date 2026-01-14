@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-01-13 21:16:27
+⏰ Updated at: 2026-01-14 21:16:57
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 4. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 5. [I Thought I Saw Your Face Today - She & Him](https://www.last.fm/music/She+&+Him/_/I+Thought+I+Saw+Your+Face+Today)
-6. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
-7. [Lush Life - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
+6. [Lush Life - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
+7. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
 8. [4 Raws - EsDeeKid](https://www.last.fm/music/EsDeeKid/_/4+Raws)
 9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-10. [Every Breath You Take - The Police](https://www.last.fm/music/The+Police/_/Every+Breath+You+Take)
+10. [Punk Rocky - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/Punk+Rocky)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
