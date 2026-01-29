@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-01-28 21:24:47
+⏰ Updated at: 2026-01-29 21:21:37
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
 4. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 5. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
-6. [Lush Life - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
-7. [HELICOPTER - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/HELICOPTER)
-8. [The Fate of Ophelia - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia)
-9. [Midnight Sun - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)
-10. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+6. [The Fate of Ophelia - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia)
+7. [Lush Life - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
+8. [Midnight Sun - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)
+9. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
+10. [HELICOPTER - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/HELICOPTER)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
