@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-01-29 21:21:37
+⏰ Updated at: 2026-01-30 21:23:06
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [Lush Life - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
 8. [Midnight Sun - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)
 9. [back to friends - sombr](https://www.last.fm/music/sombr/_/back+to+friends)
-10. [HELICOPTER - A$AP Rocky](https://www.last.fm/music/A$AP+Rocky/_/HELICOPTER)
+10. [4 Raws - EsDeeKid](https://www.last.fm/music/EsDeeKid/_/4+Raws)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
