@@ -1,18 +1,18 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-02-08 21:21:27
+⏰ Updated at: 2026-02-09 21:34:44
 
 ## 📈 Top Tracks
 
-1. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-2. [DtMF - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/DtMF)
+1. [DtMF - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/DtMF)
+2. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 3. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
-4. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
-5. [Opalite - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Opalite)
+4. [Opalite - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Opalite)
+5. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
 6. [NUEVAYoL - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)
-7. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
-8. [BAILE INoLVIDABLE - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)
-9. [Aperture - Harry Styles](https://www.last.fm/music/Harry+Styles/_/Aperture)
+7. [BAILE INoLVIDABLE - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)
+8. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
+9. [Man I Need - Olivia Dean](https://www.last.fm/music/Olivia+Dean/_/Man+I+Need)
 10. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 
 ---
