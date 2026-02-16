@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-02-15 21:19:14
+⏰ Updated at: 2026-02-16 21:23:40
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [VOY A LLeVARTE PA PR - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)
 7. [Tití Me Preguntó - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3)
 8. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
-9. [Opalite - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Opalite)
-10. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
+9. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
+10. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
