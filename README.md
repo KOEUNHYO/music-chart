@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-02-28 21:15:33
+⏰ Updated at: 2026-03-01 21:17:33
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [Midnight Sun - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)
 8. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 9. [So Easy (To Fall In Love) - Olivia Dean](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))
-10. [EoO - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/EoO)
+10. [WHERE IS MY HUSBAND! - RAYE](https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
