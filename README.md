@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-03-01 21:17:33
+⏰ Updated at: 2026-03-02 21:27:59
 
 ## 📈 Top Tracks
 
@@ -8,8 +8,8 @@
 2. [DtMF - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/DtMF)
 3. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 4. [NUEVAYoL - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)
-5. [BAILE INoLVIDABLE - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)
-6. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
+5. [End of Beginning - Djo](https://www.last.fm/music/Djo/_/End+of+Beginning)
+6. [BAILE INoLVIDABLE - Bad Bunny](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)
 7. [Midnight Sun - Zara Larsson](https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun)
 8. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 9. [So Easy (To Fall In Love) - Olivia Dean](https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love))
