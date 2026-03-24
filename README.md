@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-03-23 21:30:59
+⏰ Updated at: 2026-03-24 21:32:35
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Aliens - BTS](https://www.last.fm/music/BTS/_/Aliens)
 7. [2.0 - BTS](https://www.last.fm/music/BTS/_/2.0)
 8. [Merry Go Round - BTS](https://www.last.fm/music/BTS/_/Merry+Go+Round)
-9. [Babydoll - Dominic Fike](https://www.last.fm/music/Dominic+Fike/_/Babydoll)
-10. [Normal - BTS](https://www.last.fm/music/BTS/_/Normal)
+9. [Normal - BTS](https://www.last.fm/music/BTS/_/Normal)
+10. [Like Animals - BTS](https://www.last.fm/music/BTS/_/Like+Animals)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
