@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-04-09 21:40:36
+⏰ Updated at: 2026-04-10 21:31:41
 
 ## 📈 Top Tracks
 
@@ -8,12 +8,12 @@
 2. [Babydoll - Dominic Fike](https://www.last.fm/music/Dominic+Fike/_/Babydoll)
 3. [SWIM - BTS](https://www.last.fm/music/BTS/_/SWIM)
 4. [Body to Body - BTS](https://www.last.fm/music/BTS/_/Body+to+Body)
-5. [FATHER (feat. Travis Scott) - Kanye West](https://www.last.fm/music/Kanye+West/_/FATHER+(feat.+Travis+Scott))
-6. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
+5. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
+6. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 7. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 8. [Hooligan - BTS](https://www.last.fm/music/BTS/_/Hooligan)
-9. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-10. [2.0 - BTS](https://www.last.fm/music/BTS/_/2.0)
+9. [2.0 - BTS](https://www.last.fm/music/BTS/_/2.0)
+10. [FATHER (feat. Travis Scott) - Kanye West](https://www.last.fm/music/Kanye+West/_/FATHER+(feat.+Travis+Scott))
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
