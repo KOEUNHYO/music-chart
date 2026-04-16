@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-04-15 21:45:36
+⏰ Updated at: 2026-04-16 21:37:22
 
 ## 📈 Top Tracks
 
@@ -8,12 +8,12 @@
 2. [Babydoll - Dominic Fike](https://www.last.fm/music/Dominic+Fike/_/Babydoll)
 3. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 4. [SWIM - BTS](https://www.last.fm/music/BTS/_/SWIM)
-5. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
-6. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
+5. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
+6. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
 7. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 8. [Body to Body - BTS](https://www.last.fm/music/BTS/_/Body+to+Body)
 9. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
-10. [Hooligan - BTS](https://www.last.fm/music/BTS/_/Hooligan)
+10. [PINKY UP - KATSEYE](https://www.last.fm/music/KATSEYE/_/PINKY+UP)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
