@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-04-21 21:39:49
+⏰ Updated at: 2026-04-22 21:44:57
 
 ## 📈 Top Tracks
 
@@ -10,10 +10,10 @@
 4. [Babydoll - Dominic Fike](https://www.last.fm/music/Dominic+Fike/_/Babydoll)
 5. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 6. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
-7. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
-8. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-9. [PINKY UP - KATSEYE](https://www.last.fm/music/KATSEYE/_/PINKY+UP)
-10. [Confident - Justin Bieber](https://www.last.fm/music/Justin+Bieber/_/Confident)
+7. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
+8. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
+9. [Confident - Justin Bieber](https://www.last.fm/music/Justin+Bieber/_/Confident)
+10. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
