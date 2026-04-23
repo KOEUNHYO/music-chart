@@ -1,11 +1,11 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-04-22 21:44:57
+⏰ Updated at: 2026-04-23 21:40:27
 
 ## 📈 Top Tracks
 
-1. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-2. [Drop Dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/Drop+Dead)
+1. [Drop Dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/Drop+Dead)
+2. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 3. [Beauty and a Beat - Justin Bieber](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
 4. [Babydoll - Dominic Fike](https://www.last.fm/music/Dominic+Fike/_/Babydoll)
 5. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
