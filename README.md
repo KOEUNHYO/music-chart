@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-04-27 21:50:25
+⏰ Updated at: 2026-04-28 21:52:08
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Manchild - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/Manchild)
 7. [Dracula - JENNIE remix - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Dracula+-+JENNIE+remix)
 8. [House Tour - Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour)
-9. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
-10. [SWIM - BTS](https://www.last.fm/music/BTS/_/SWIM)
+9. [SWIM - BTS](https://www.last.fm/music/BTS/_/SWIM)
+10. [Fame Is a Gun - Addison Rae](https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
