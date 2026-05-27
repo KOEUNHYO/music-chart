@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-05-26 22:16:45
+⏰ Updated at: 2026-05-27 22:27:11
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [Beauty and a Beat - Justin Bieber](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
 8. [Beat It - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Beat+It)
 9. [Chicago - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Chicago)
-10. [Janice STFU - Drake](https://www.last.fm/music/Drake/_/Janice+STFU)
+10. [Human Nature - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Human+Nature)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
