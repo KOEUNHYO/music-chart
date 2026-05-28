@@ -1,11 +1,11 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-05-27 22:27:11
+⏰ Updated at: 2026-05-28 22:38:32
 
 ## 📈 Top Tracks
 
-1. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-2. [tHe CuRe - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/tHe+CuRe)
+1. [tHe CuRe - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/tHe+CuRe)
+2. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 3. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 4. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 5. [Billie Jean - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)
@@ -13,7 +13,7 @@
 7. [Beauty and a Beat - Justin Bieber](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
 8. [Beat It - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Beat+It)
 9. [Chicago - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Chicago)
-10. [Human Nature - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Human+Nature)
+10. [SS26 - Charli xcx](https://www.last.fm/music/Charli+xcx/_/SS26)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
