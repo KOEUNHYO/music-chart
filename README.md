@@ -1,12 +1,12 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-06-02 22:57:37
+⏰ Updated at: 2026-06-03 23:01:06
 
 ## 📈 Top Tracks
 
 1. [tHe CuRe - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/tHe+CuRe)
-2. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-3. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+2. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+3. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 4. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 5. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 6. [Billie Jean - Michael Jackson](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)
