@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-06-18 22:53:16
+⏰ Updated at: 2026-06-19 22:00:08
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
 8. [begged - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/begged)
 9. [purple - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/purple)
-10. [what’s wrong with me - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/what%E2%80%99s+wrong+with+me)
+10. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
