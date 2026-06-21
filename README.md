@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-06-20 22:01:38
+⏰ Updated at: 2026-06-21 22:08:39
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 4. [honeybee - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/honeybee)
 5. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-6. [u + me = <3 - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3)
-7. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
-8. [begged - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/begged)
-9. [purple - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/purple)
-10. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+6. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
+7. [u + me = <3 - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3)
+8. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+9. [begged - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/begged)
+10. [what’s wrong with me - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/what%E2%80%99s+wrong+with+me)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
