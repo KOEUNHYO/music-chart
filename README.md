@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-06-23 22:08:03
+⏰ Updated at: 2026-06-24 22:11:45
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [u + me = <3 - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3)
 8. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 9. [begged - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/begged)
-10. [what’s wrong with me - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/what%E2%80%99s+wrong+with+me)
+10. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
