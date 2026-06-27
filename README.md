@@ -1,11 +1,11 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-06-26 22:06:59
+⏰ Updated at: 2026-06-27 21:58:29
 
 ## 📈 Top Tracks
 
-1. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
-2. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
+1. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
+2. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 3. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 4. [honeybee - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/honeybee)
 5. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
