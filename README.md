@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-07-06 22:08:58
+⏰ Updated at: 2026-07-07 22:07:28
 
 ## 📈 Top Tracks
 
@@ -11,8 +11,8 @@
 5. [honeybee - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/honeybee)
 6. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 7. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-8. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
-9. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+8. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+9. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
 10. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 
 ---
