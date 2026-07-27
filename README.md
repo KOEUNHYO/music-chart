@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-07-26 21:53:40
+⏰ Updated at: 2026-07-27 22:00:06
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 7. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-9. [honeybee - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/honeybee)
-10. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
+9. [my way - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/my+way)
+10. [honeybee - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/honeybee)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
