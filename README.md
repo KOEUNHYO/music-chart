@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-08-07 21:32:42
+⏰ Updated at: 2026-08-08 21:23:35
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [big feelings - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/big+feelings)
 7. [Like I Do - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Like+I+Do)
 8. [freak - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/freak)
-9. [warning signs (interlude) - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/warning+signs+(interlude))
-10. [bad thing (bunny hop) - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/bad+thing+(bunny+hop))
+9. [bad thing (bunny hop) - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/bad+thing+(bunny+hop))
+10. [NeVeR gEt OvEr Me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/NeVeR+gEt+OvEr+Me)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
