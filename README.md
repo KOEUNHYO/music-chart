@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-08-11 21:39:13
+⏰ Updated at: 2026-08-12 21:38:41
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 4. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-6. [Kiss Me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Kiss+Me)
-7. [Ain't In LA - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA)
-8. [Stay - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Stay)
-9. [oh well - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/oh+well)
-10. [Like I Do - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Like+I+Do)
+6. [Ain't In LA - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA)
+7. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
+8. [Like I Do - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Like+I+Do)
+9. [Kiss Me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Kiss+Me)
+10. [oh well - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/oh+well)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
