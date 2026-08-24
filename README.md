@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-08-23 21:14:59
+⏰ Updated at: 2026-08-24 21:22:20
 
 ## 📈 Top Tracks
 
@@ -11,9 +11,9 @@
 5. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
 6. [Petal - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Petal)
 7. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-8. [HOOTIE FRUTTI - KATSEYE](https://www.last.fm/music/KATSEYE/_/HOOTIE+FRUTTI)
-9. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
-10. [Lost Boys - Phoebe Bridgers](https://www.last.fm/music/Phoebe+Bridgers/_/Lost+Boys)
+8. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
+9. [HOOTIE FRUTTI - KATSEYE](https://www.last.fm/music/KATSEYE/_/HOOTIE+FRUTTI)
+10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
