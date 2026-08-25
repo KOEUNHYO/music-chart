@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-08-24 21:22:20
+⏰ Updated at: 2026-08-25 21:21:02
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Petal - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Petal)
 7. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 8. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
-9. [HOOTIE FRUTTI - KATSEYE](https://www.last.fm/music/KATSEYE/_/HOOTIE+FRUTTI)
-10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+10. [HOOTIE FRUTTI - KATSEYE](https://www.last.fm/music/KATSEYE/_/HOOTIE+FRUTTI)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
