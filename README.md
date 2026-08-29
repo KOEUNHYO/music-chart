@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-08-28 05:03:01
+⏰ Updated at: 2026-08-29 03:00:21
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 7. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 8. [Petal - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/Petal)
-9. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
-10. [HOOTIE FRUTTI - KATSEYE](https://www.last.fm/music/KATSEYE/_/HOOTIE+FRUTTI)
+9. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+10. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
