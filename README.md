@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-09-03 22:55:44
+⏰ Updated at: 2026-09-04 22:43:28
 
 ## 📈 Top Tracks
 
@@ -13,7 +13,7 @@
 7. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 8. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-10. [Loser - Tame Impala](https://www.last.fm/music/Tame+Impala/_/Loser)
+10. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
