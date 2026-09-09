@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-09-08 23:06:13
+⏰ Updated at: 2026-09-09 22:51:55
 
 ## 📈 Top Tracks
 
@@ -8,12 +8,12 @@
 2. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 3. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 4. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-5. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+5. [NICOLE KIDMAN - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/NICOLE+KIDMAN)
 6. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
-7. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-9. [NICOLE KIDMAN - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/NICOLE+KIDMAN)
-10. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+7. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+8. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
+9. [KGB - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/KGB)
+10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
