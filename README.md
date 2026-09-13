@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-09-12 22:46:23
+⏰ Updated at: 2026-09-13 22:46:58
 
 ## 📈 Top Tracks
 
@@ -9,10 +9,10 @@
 3. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 4. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 5. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
-6. [KGB - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/KGB)
-7. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
-8. [Boys - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Boys)
-9. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
+6. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
+7. [KGB - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/KGB)
+8. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
+9. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 10. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 
 ---
