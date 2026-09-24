@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-09-23 23:23:33
+⏰ Updated at: 2026-09-24 23:42:54
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 7. [hate that i made you love me - Ariana Grande](https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me)
 8. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-9. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
-10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+10. [Oh Yeah? - Steve Lacy](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
