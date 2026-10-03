@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-03 00:05:51
+⏰ Updated at: 2026-10-03 23:28:44
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 7. [Cleveland! - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Cleveland%21)
 8. [Pink Clouding - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Pink+Clouding)
-9. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
+10. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
