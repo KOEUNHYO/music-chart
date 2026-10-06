@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-04 23:46:04
+⏰ Updated at: 2026-10-06 01:38:18
 
 ## 📈 Top Tracks
 
@@ -11,9 +11,9 @@
 5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 6. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
 7. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-8. [Patient Zero - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Patient+Zero)
-9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-10. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+10. [Patient Zero - Taylor Swift](https://www.last.fm/music/Taylor+Swift/_/Patient+Zero)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
