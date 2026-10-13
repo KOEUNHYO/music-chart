@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-12 00:08:18
+⏰ Updated at: 2026-10-13 02:21:43
 
 ## 📈 Top Tracks
 
