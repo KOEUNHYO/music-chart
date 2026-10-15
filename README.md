@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-14 23:35:33
+⏰ Updated at: 2026-10-15 23:29:35
 
 ## 📈 Top Tracks
 
@@ -9,11 +9,11 @@
 3. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 4. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-6. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
-7. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+6. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+7. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
 8. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-9. [BRAND NEW CHANEL$ - Slayyyter](https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$)
-10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+10. [BRAND NEW CHANEL$ - Slayyyter](https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
