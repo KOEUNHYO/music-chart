@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-15 23:29:35
+⏰ Updated at: 2026-10-16 23:11:54
 
 ## 📈 Top Tracks
 
@@ -11,9 +11,9 @@
 5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 6. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 7. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
-8. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-10. [BRAND NEW CHANEL$ - Slayyyter](https://www.last.fm/music/Slayyyter/_/BRAND+NEW+CHANEL$)
+8. [i think he's got a girl - Slayyyter](https://www.last.fm/music/Slayyyter/_/i+think+he%27s+got+a+girl)
+9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
+10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
