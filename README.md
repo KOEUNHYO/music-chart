@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-17 22:48:55
+⏰ Updated at: 2026-10-18 22:42:12
 
 ## 📈 Top Tracks
 
@@ -8,12 +8,12 @@
 2. [Ain't In LA - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA)
 3. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 4. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
-5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-6. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
-7. [Melatonin - Tinashe](https://www.last.fm/music/Tinashe/_/Melatonin)
-8. [i think he's got a girl - Slayyyter](https://www.last.fm/music/Slayyyter/_/i+think+he%27s+got+a+girl)
-9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
-10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+5. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+6. [expectations (feat. Chappell Roan) - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan))
+7. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
+8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
+9. [i think he's got a girl - Slayyyter](https://www.last.fm/music/Slayyyter/_/i+think+he%27s+got+a+girl)
+10. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
