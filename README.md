@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-22 23:48:49
+⏰ Updated at: 2026-10-23 23:42:43
 
 ## 📈 Top Tracks
 
@@ -11,9 +11,9 @@
 5. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 6. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 7. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
-8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-9. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
-10. [i think he's got a girl - Slayyyter](https://www.last.fm/music/Slayyyter/_/i+think+he%27s+got+a+girl)
+8. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
+9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
+10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
