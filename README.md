@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-27 00:10:18
+⏰ Updated at: 2026-10-28 00:11:56
 
 ## 📈 Top Tracks
 
@@ -8,8 +8,8 @@
 2. [expectations (feat. Chappell Roan) - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan))
 3. [Ain't In LA - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA)
 4. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
-5. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
-6. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
+5. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
+6. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
 7. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 8. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
