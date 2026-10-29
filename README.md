@@ -1,10 +1,10 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-28 00:11:56
+⏰ Updated at: 2026-10-29 00:32:36
 
 ## 📈 Top Tracks
 
-1. [NICOLE KIDMAN - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/NICOLE+KIDMAN)
+1. [Nicole Kidman - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Nicole+Kidman)
 2. [expectations (feat. Chappell Roan) - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan))
 3. [Ain't In LA - ADÉLA](https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA)
 4. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
