@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-10-29 00:32:36
+⏰ Updated at: 2026-10-30 00:32:05
 
 ## 📈 Top Tracks
 
@@ -10,8 +10,8 @@
 4. [the cure - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/the+cure)
 5. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
 6. [stupid song - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song)
-7. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
-8. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
+7. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
+8. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
 9. [Stateside + Zara Larsson - PinkPantheress](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)
 10. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 
