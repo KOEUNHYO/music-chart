@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-11-17 03:20:31
+⏰ Updated at: 2026-11-18 02:41:07
 
 ## 📈 Top Tracks
 
@@ -12,8 +12,8 @@
 6. [Duvet - bôa](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 7. [expectations (feat. Chappell Roan) - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan))
 8. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
-9. [hey boyyy - Slayyyter](https://www.last.fm/music/Slayyyter/_/hey+boyyy)
-10. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+9. [expectations - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/expectations)
+10. [hey boyyy - Slayyyter](https://www.last.fm/music/Slayyyter/_/hey+boyyy)
 
 ---
 *Powered by [Last.fm](https://www.last.fm)*
