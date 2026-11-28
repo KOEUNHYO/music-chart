@@ -1,6 +1,6 @@
 # 🎵 실시간 인기 음악 차트 (Last.fm)
 
-⏰ Updated at: 2026-11-27 03:25:33
+⏰ Updated at: 2026-11-28 03:01:01
 
 ## 📈 Top Tracks
 
@@ -11,8 +11,8 @@
 5. [Earrings - Malcolm Todd](https://www.last.fm/music/Malcolm+Todd/_/Earrings)
 6. [Housewife - Tate McRae](https://www.last.fm/music/Tate+McRae/_/Housewife)
 7. [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score] - Justice](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D)
-8. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
-9. [brand new chanel$ - Slayyyter](https://www.last.fm/music/Slayyyter/_/brand+new+chanel$)
+8. [brand new chanel$ - Slayyyter](https://www.last.fm/music/Slayyyter/_/brand+new+chanel$)
+9. [maggots for brains - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains)
 10. [drop dead - Olivia Rodrigo](https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead)
 
 ---
